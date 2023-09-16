@@ -159,8 +159,8 @@ h1, h2,
 body,
 p,
 span {
-  -webkit-animation:slideIn 1s ease-in;
-  animation:slideIn 1s ease-out
+  -webkit-animation: slideIn 1s ease-in;
+  animation: slideIn 1s ease-out
 }
 @-webkit-keyframes slideIn {
   0% {
